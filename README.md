@@ -1,6 +1,7 @@
 # motif-finder
 
-A tiny example that shows how one can pattern match motifs using regular expressions.
+A tiny example that shows how one can pattern match motifs using
+[regular expressions](https://en.wikipedia.org/wiki/Regular_expression).
 
 
 ### How to run the example
