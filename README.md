@@ -30,3 +30,5 @@ Example 11 [(58, 63)]
 Example 12 [(56, 61)]
 Example 13 [(77, 82)]
 ```
+
+Have a look at `patterns.txt` and adapt them.
